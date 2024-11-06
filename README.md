@@ -22,7 +22,7 @@ The **Puma Landing Page** project showcases a stylish and modern design focused 
 - **Modern Layout**: Clean and minimalistic, focusing on Puma’s products and brand image.
 - **Easy to Navigate**: User-friendly layout for easy navigation.
 
-## 📸 Screenshots
+## 🌐 Live Demo
 
-![Puma Landing Page Screenshot]("C:\Users\Zbook\OneDrive\Pictures\Screenshots\Screenshot 2024-11-07 013849.png")
+Check out the live demo [here](https://puma-landing-page-sufiyan.netlify.app/).
 
